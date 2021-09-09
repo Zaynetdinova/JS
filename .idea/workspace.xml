@@ -1,15 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="dde60c59-ab46-4354-a345-1b9a0a5725c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/String/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/tasks/access_to_symbols.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/tasks/compare-strings.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/tasks/find-letter.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/tasks/getting_a_string.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/String/tasks/turn_over_string.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="dde60c59-ab46-4354-a345-1b9a0a5725c5" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,7 +39,7 @@
       <workItem from="1631000135954" duration="1232000" />
       <workItem from="1631001410890" duration="5996000" />
       <workItem from="1631034526269" duration="5308000" />
-      <workItem from="1631191849783" duration="6200000" />
+      <workItem from="1631191849783" duration="6493000" />
     </task>
     <servers />
   </component>
