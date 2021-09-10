@@ -31,7 +31,9 @@
 
 **str.slice(start [, end]) -** Возвращает часть строки от start до (не включая) end.
 
-**str.substring(start [, end]) -** 
+**str.substring(start [, end]) -** Возвращает часть строки между start и end.
+
+**str.substr(start [, length]) -** Возвращает часть строки от start длины length.
 
 ### Другие методы:
 

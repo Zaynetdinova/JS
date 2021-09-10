@@ -13,7 +13,7 @@ function reverseString2(str) {
 	return newString
 }
 console.log(reverseString2('Hello'))
-
+// 3 вариант
 function reverseString3(str) {
 	return (str === '') ? '' : reverseString3(str.substr(1)) + str.charAt(0)
 }
