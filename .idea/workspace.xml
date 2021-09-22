@@ -2,13 +2,15 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dde60c59-ab46-4354-a345-1b9a0a5725c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Number/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Number/tasks/isNaN_isFinite.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Number/tasks/parse.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Number/tasks/round_up.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NullAndUndefined/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/NullAndUndefined/typeof.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object/tasks/clon.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object/tasks/constructor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object/tasks/primitive.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Symbol/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Symbol/symbol.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/String/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/String/tasks/turn_over_string.js" beforeDir="false" afterPath="$PROJECT_DIR$/String/tasks/turn_over_string.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +49,14 @@
       <workItem from="1631000135954" duration="1232000" />
       <workItem from="1631001410890" duration="5996000" />
       <workItem from="1631034526269" duration="5308000" />
-      <workItem from="1631191849783" duration="9986000" />
+      <workItem from="1631191849783" duration="10566000" />
+      <workItem from="1631603289408" duration="111000" />
+      <workItem from="1631610335992" duration="277000" />
+      <workItem from="1631626629094" duration="1252000" />
+      <workItem from="1631695129974" duration="7422000" />
+      <workItem from="1631868082100" duration="1491000" />
+      <workItem from="1632296767787" duration="3718000" />
+      <workItem from="1632312725782" duration="300000" />
     </task>
     <servers />
   </component>
