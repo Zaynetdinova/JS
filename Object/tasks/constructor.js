@@ -1,5 +1,5 @@
 // Конструктор Калькулятор
-function Calculator() {
+function Calculator(name) {
 	this.read = function() {
 		this.a = +prompt('a?',0);
 		this.b = +prompt('b?',0);
@@ -10,9 +10,11 @@ function Calculator() {
 	this.mul = function() {
 		return this.a * this.b
 	};
+
+	this.name = name;
 }
 
-let calculator = new Calculator();
+let calculator = new Calculator('Bkmvbhf');
 calculator.read();
 
 alert( "Sum=" + calculator.sum() );

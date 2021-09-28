@@ -2,15 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="dde60c59-ab46-4354-a345-1b9a0a5725c5" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/NullAndUndefined/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/NullAndUndefined/typeof.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object/tasks/clon.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object/tasks/constructor.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Object/tasks/primitive.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Symbol/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Symbol/symbol.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Date/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Date/tasks/Date.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/Json.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JSON/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapSet/tasks/Map.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MapSet/tasks/Set.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Object/tasks/Object_keys_values_entries.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Prototype/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Object/tasks/constructor.js" beforeDir="false" afterPath="$PROJECT_DIR$/Object/tasks/constructor.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,6 +58,10 @@
       <workItem from="1631868082100" duration="1491000" />
       <workItem from="1632296767787" duration="3718000" />
       <workItem from="1632312725782" duration="300000" />
+      <workItem from="1632320224898" duration="264000" />
+      <workItem from="1632391772216" duration="160000" />
+      <workItem from="1632480426039" duration="7824000" />
+      <workItem from="1632764572202" duration="1534000" />
     </task>
     <servers />
   </component>
